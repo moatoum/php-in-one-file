@@ -1,4 +1,4 @@
-	<?php
+    <?php
     
         echo "Welcome, " . strtoupper("human") . "!\r\n\r\n";
         //Most of the language syntax and functions can be found here.
